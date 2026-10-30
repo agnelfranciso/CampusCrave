@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Diamond/square brand mark in vivid electric emerald -->
+    <path
+        android:fillColor="#00E05A"
+        android:pathData="M54,34 L74,54 L54,74 L34,54 Z"/>
+    <!-- Small inner circle in obsidian -->
+    <path
+        android:fillColor="#0B0F12"
+        android:pathData="M54,49 A5,5 0 1,1 54,59 A5,5 0 1,1 54,49 Z"/>
+</vector>
+
